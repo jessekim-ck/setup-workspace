@@ -1,4 +1,4 @@
-# Necessary packages
+# Basic packages
 sudo apt-get update
 sudo apt-get install vim git curl openssh-server
 
